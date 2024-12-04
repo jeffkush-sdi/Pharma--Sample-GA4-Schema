@@ -1,4 +1,4 @@
-# GA4 Data Layer and Data Attribute Spec
+# SAMPLE GA4 Data Layer and Data Attribute Spec
 
 ## Overview
 This repository contains the necessary specifications to build an Event Driven Data Layer.
@@ -26,9 +26,3 @@ We defer to stylistic preferences in the target codebase, but here are the JavaS
 - Double quotes instead of single quotes in object properties
 - No trailing commas
 - Semicolons required
-
-## Contributing
-We welcome contributions! If you'd like to contribute, please review our [Contributing Guide](./CONTRIBUTING.md).
-
-## Questions/Comments
-For any questions or comments, please [open a discussion](https://github.com/searchdiscovery/client-kenvue-ga4-dl-spec/discussions).
