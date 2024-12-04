@@ -1,6 +1,6 @@
-# Welcome to the Kenvue GA4 Data Layer Spec contributing guide
+# Welcome to the GA4 Data Layer Spec contributing guide
 
-Thank you for your interest in contributing to the Kenvue GA4 Data Layer Spec!
+Thank you for your interest in contributing to the GA4 Data Layer Spec!
 
 In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
 
@@ -18,7 +18,7 @@ We use GitHub Issues to centralize discussions around spec changes. Once an issu
 
 #### Create a new issue
 
-If you'd like to propose a change to the spec, [search to see if there's already an issue](https://github.com/searchdiscovery/client-kenvue-ga4-dl-spec/issues). If a related issue doesn't exist, you can [open a new issue using the issue form](https://github.com/searchdiscovery/client-kenvue-ga4-dl-spec/issues/new).
+If you'd like to propose a change to the spec...
 
 #### Solve an issue
 
