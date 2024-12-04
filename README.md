@@ -1,4 +1,4 @@
-# Kenvue GA4 Data Layer and Data Attribute Spec
+# GA4 Data Layer and Data Attribute Spec
 
 ## Overview
 This repository contains the necessary specifications to build an Event Driven Data Layer.
