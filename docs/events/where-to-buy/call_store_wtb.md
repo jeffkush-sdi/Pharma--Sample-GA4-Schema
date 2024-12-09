@@ -24,7 +24,7 @@ dataLayer.push({
   event_data: {
     identifier: '<identifier>', // REQUIRED | string | ex. contact, lead_generation
     name: '<name>', // REQUIRED | string | ex. contact, lead_generation	
-    affiliation: "<affiliation>", // REQUIRED | string | ex. walmart, cvs
+    // affiliation: "<affiliation>", // REQUIRED | string | ex. walmart, cvs
     component_type: "<component_type>", // REQUIRED | string | ex. pricespider, channeladvisor
     item_brand: "<item_brand>", // REQUIRED | string | ex. tylenol, zyrtec, listerine
     item_id: "<item_id>", // REQUIRED | string | ex. CW21001

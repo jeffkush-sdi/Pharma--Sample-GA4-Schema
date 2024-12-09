@@ -20,7 +20,7 @@ dataLayer.push({
   event_data: {
     identifier: '<identifier>', // REQUIRED | string | ex. contact, lead_generation
     name: '<name>', // REQUIRED | string | ex. contact, lead_generation	
-    affiliation: "<affiliation>", //REQUIRED | string | ex. Amazon.com, Walmart.com, CVS
+    // affiliation: "<affiliation>", //REQUIRED | string | ex. Amazon.com, Walmart.com, CVS
     component_type: "<component_type>", // REQUIRED | string | ex. pricespider, channeladvisor
     item_brand: "<item_brand>", // REQUIRED | string | ex. tylenol, zyrtec, listerine
     category: "<category>", // contextual | string | ex. find online, find locally
