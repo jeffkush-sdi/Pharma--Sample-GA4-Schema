@@ -28,7 +28,7 @@ dataLayer.push({
     page_type: '<page_type>', // REQUIRED | string | ex. article, blog, homepage, product
     site_brand: '<site_brand>', // REQUIRED | string | ex. neutrogena
     site_country: '<site_country>', // REQUIRED | string | ex us, au, is, jp
-    site_franchise: '<site_franchise>', // REQUIRED | string | ex essential health, skin care & self care
+    // site_franchise: '<site_franchise>', // REQUIRED | string | ex essential health, skin care & self care
     site_region: '<site_region>', // REQUIRED | string | ex. EMEA
     site_section: '<site_section>', // REQUIRED | string | ex. products
     user_login_state: '<user_login_state>' // REQUIRED | string | ex. authenticated, anonymous 
